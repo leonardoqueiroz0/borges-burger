@@ -1,12 +1,26 @@
 # Borges Burger
 
-Demo de site para o Borges Burger, Vila Nova de Gaia.
+Demo de um site moderno para o Borges Burger, Vila Nova de Gaia.
 
-## Antes de apresentar ao restaurante
-- Confirmar preços e menu diretamente com o restaurante.
-- Substituir as imagens de demonstração por fotografias autorizadas do Borges Burger.
-- Confirmar horários, telefone e links oficiais.
-- Confirmar a plataforma de delivery preferida.
+## Stack
+- Next.js
+- React
+- TypeScript
+- CSS
 
-## Tecnologias
-Next.js + React + CSS.
+## Importante
+Esta é uma demo comercial. Antes de apresentar como site final, confirmar com o restaurante:
+- menu e preços;
+- horários;
+- telefone e links oficiais;
+- fotografias e autorização para utilização;
+- plataforma de delivery preferida.
+
+## Desenvolvimento local
+
+```bash
+npm install
+npm run dev
+```
+
+Depois abre http://localhost:3000
